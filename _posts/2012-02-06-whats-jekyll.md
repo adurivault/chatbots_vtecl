@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Chatbots
+title: Caca About Chatbots
 ---
 
 Cela fait maintenant plusieurs années que l’on entend parler des « Chatbots » comme de l’une des grandes nouveautés technologiques de ces dernières années. Comme souvent pour les technologies jeunes, les définitions sont multiples, les produits nombreux, et il est difficile d'avoir une vision d'ensemble du marché et des possibilités. Je vous propose donc un cours de rattrapage ...
