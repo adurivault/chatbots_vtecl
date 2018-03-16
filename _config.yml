@@ -11,7 +11,7 @@ title:            Chatbots
 tagline:          'Synthèse de veille technologique'
 description:      'BlablaDans le cadre de mes études à l&#39École Centrale de Lyon, j&#39ai effectué une veille technologique sur les thème des Chatbots. Ce site a pour but de restituer l&#39enseigngment que j&#39ai tiré de ce projet.<br><br>Made by <a href="https://twitter.com/Augustin_ECL" target="_blank">@Augustin_ECL</a>.'
 url:              https://adurivault.github.io
-baseurl:          /hyde/
+baseurl:          /hyde
 
 author:
   name:           'Augustin Durivault'
