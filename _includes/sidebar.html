@@ -17,10 +17,10 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{% if true %} /hyde/NLP_et_Applications {% endif %}">test1</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{% if true %} /hyde/Aspects_Techniques {% endif %}">test2</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{% if true %} /hyde/Aprecu_Chatbots {% endif %}">test3</a>
 
-      <a class="sidebar-nav-item" href="Apercu_Chatbot">Aperçu Chatbots</a>
-      <a class="sidebar-nav-item" href="Aspects_Techniques">Aspects Technques</a>
-      <a class="sidebar-nav-item" href="NLP_et_Applications">NLP et Applications</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
