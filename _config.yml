@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Chatbots
 tagline:          'Synthèse de veille technologique'
 description:      'lksdjflkjdfDans le cadre de mes études à l''École Centrale de Lyon, j''ai effectué une veille technologique sur les thème des Chatbots. Ce site a pour but de restituer l''enseignement que j''ai tiré de ce projet.<br><br>Made by <a href="https://twitter.com/Augustin_ECL" target="_blank">@Augustin_ECL</a>.'
-url:              http://hyde.getpoole.com/
+url:              http://hyde.getpoole.com
 baseurl:          '/hyde'
 
 author:
