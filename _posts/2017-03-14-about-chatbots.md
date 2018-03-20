@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caca About Chatbots
+title: About Chatbots
 ---
 
 Cela fait maintenant plusieurs années que l’on entend parler des « Chatbots » comme de l’une des grandes nouveautés technologiques de ces dernières années. Comme souvent pour les technologies jeunes, les définitions sont multiples, les produits nombreux, et il est difficile d'avoir une vision d'ensemble du marché et des possibilités. Je vous propose donc un cours de rattrapage ...
@@ -15,7 +15,6 @@ Pour commencer avec une définition très simple, un chatbot est un robot logici
 La question est légitime. Pour y répondre, imaginons un chatbot qui comprendrait exactement tout ce que je veux dire, qui saisirait toutes les nuances de la langue française, et qui réagirait en répondant de manière pertinente à mon problème. Imaginons une telle technologie utilisée pour un chatbot dont le but est de réserver des billets d’avion. Voici un exemple de conversation qu’il serait possible d’avoir :
 
 ![Conversation](/hyde/Images/Conversation_1.png?raw=true){:width="400px"}
-<em>Source : Le journal du net</em>
 
 On remarque que le langage tel que nous l’utilisons est bien plus riche dans les possiblilités qui nous sont offertes, et permet de faire passer un contenu d’information très dense, dans quelques phrases. On gagne alors en temps, en liberté, et en intuitivité d’utilisation.
 
@@ -25,6 +24,7 @@ Je le sens, vous commencez à être convaincu. Vous sentez bien que cela offre, 
 
 ### C'est par où la suite ?
 
-- [Aperçu des différents Chatbots sur le marché](https://adurivault.github.io/hyde/Apercu_Chatbots)
-- [Introduction aux aspects techniques pour une compréhension basique des Chatbots et de leur fonctions](https://adurivault.github.io/hyde/Aspects_Techniques)
-- [Introduction au Natural Language Processing (NLP) et à ses applications](https://adurivault.github.io/hyde/NLP_et_Applications)
+- [Aperçu des différents Chatbots sur le marché](https://adurivault.github.io/hyde/Apercu_Chatbots.md)
+- [Introduction aux aspects techniques pour une compréhension basique des Chatbots et de leur fonctions](https://adurivault.github.io/hyde/Aspects_Techniques.md)
+- [Introduction au Natural Language Processing (NLP) et à ses applications](https://adurivault.github.io/hyde/NLP_et_Applications.md)
+- [Sources](https://adurivault.github.io/hyde/Sources.md)
