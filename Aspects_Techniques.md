@@ -8,7 +8,7 @@ title: Aspects Techniques et Création de Chatbots
 On peut séparer la technologie derrière les chatbots en deux grandes catégories. D’une part, le Machine Learning, et d’autre part l’informatiques plus classique, à base de règles fixées par le développeur.
 Nous allons exposer les deux possibilités de séparément, pour ensuite voir que les meilleures solutions sont en fait basées sur un savant mélange de ses deux solutions.  
 
-### Machine Learning :
+### Machine Learning
 
 Un chatbot, finalement, c’est une sortie, en fonction d’une entrée :
 
@@ -28,7 +28,7 @@ Cet exemple est bien entendu grossièrement simplifié sur bien des aspects, et 
 -	Comme pour tous les modèles de réseaux de neurones, les connexions sont très obscures, et le développeur a peu de contrôle sur les réponses du chatbot
 -	Cela nécessite d’avoir un jeu de données pour entraîner le modèle
 
-### Chatbot à base de règles :
+### Chatbot à base de règles
 
 La méthode aux antipodes de la précédente est de créer un chatbot à partir d’un nombre fini de règles, définies par le développeur. L’idée est d’identifier les éléments clé dans la requête de l’utilisateur puis de renvoyer une réponse prédéfinie qui dépend des paramètres tirés de la requête. Ainsi, si par exemple, vous cherchez à développer un chatbot qui donne la météo pour la date demandée par l’utilisateur il faudrait réussir à extraire la date demandée par l’utilisateur. Vous pourriez simplement rechercher, dans la demande de l’utilisateur, une liste de mots clés tels que « Demain », « Semaine prochaine », « Week-end », « Lundi », ou n’importe quel autre ancrage temporel. Une fois la date correspondante identifiée, vous pouvez faire une requête à l’API météo que vous utilisez, ce qui vous donnera , et de retourner une chaîne de caractères de la forme :
 
