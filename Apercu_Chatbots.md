@@ -30,7 +30,7 @@ Ceci est un descriptif des principales plateformes, mais il en existe encore de 
 
 
 
-##Chatbots [[2]](https://chatbotnewsdaily.com/innovative-chatbots-in-the-industry-2767c750eb1e)
+## Chatbots [[2]](https://chatbotnewsdaily.com/innovative-chatbots-in-the-industry-2767c750eb1e)
 
 Il est bien entendu impossible de lister exhaustivement les milliers de chatbots disponibles en lignes, mais voici cependant un rapide aperçu qui se veut représentatif de ce qu’il est possible de trouver en cherchant sur les différentes plateformes.
 
