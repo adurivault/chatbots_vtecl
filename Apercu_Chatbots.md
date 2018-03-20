@@ -11,9 +11,7 @@ Comme on évoqué dans [la page sur les aspects techniques](/hyde/Aspects_Techni
 Facebook, avec sa plateforme de messagerie instantanée Messenger, a choisi une approche principalement destinée aux entreprises, leur permettant un contact simplifié avec leur clients. Les entreprises de leur côté ont naturellement privilégié cette plateforme, d’une part en raison de la portée de la communauté Facebook, en terme de nombre d’utilisateurs, d’autre part, car cela permet de bien associer le bot avec la page de l’entreprise, et d’offrir une proposition simple et logique de communication unifiée avec le client.
 Messenger propose ainsi une interface permettant de mêler langage naturel et réponses prédéfinies que l’utilisateur peut choisir à l’aide de boutons. Idéal pour proposer un bot qui permet de sélectionner un produit en fonctions de différents critères par exemple.
 
-<p align="center">
 ![Plateforme Messenger](/hyde/Images/Plateforme_Messenger.png)
-<p/>
 
 #### [Slack](https://slack.com/) : Royaume de la productivité
 Les bots que l’on trouve sur Slack sont radicalement différents de la population que l’on trouve sur Messenger, et s’accordent plus sur une amélioration de la productivité. En effet, Slack étant une plateforme de chat principalement utilisée dans un contexte professionnel, c’était l’évolution naturelle. Cet aspect utilitaire des bots de cette plateforme lui permet d’avoir le meilleur tôt de fidélisation des utilisateurs pour un bot donné : une fois qu’on y a gouté, on ne veut plus faire demi tour.
@@ -29,9 +27,6 @@ Enfin, le réseau social Twitter est aussi, en un sens, une plateforme de chatbo
 
 ### Autres
 Ceci est un descriptif des principales plateformes, mais il en existe encore de nombreuses autres qui permettent de mettre des chatbots en lignes, comme Reddit, Discord, Twitch, etc…
-
-
-
 
 
 
